@@ -1,2 +1,1 @@
-# testgit
-test git ignore
+# cms-academy-training-system
